@@ -1,5 +1,6 @@
 # Pisenball
 
+![GitHub contributors](https://img.shields.io/github/contributors/jesa974/Pisenball?color=green&style=flat-square)
 ![GitHub top language](https://img.shields.io/github/languages/top/jesa974/Pisenball?color=orange&label=C&style=flat-square)
 ![GitHub repo size](https://img.shields.io/github/repo-size/jesa974/Pisenball?label=project%20size&style=flat-square&color=lightgrey)
 
